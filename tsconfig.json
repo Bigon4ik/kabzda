@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-, "src/Probka.tsx"  ]
+, "src/Acordion.tsx"  ]
 }
