@@ -7,6 +7,10 @@ function App() {
   return (
     <div >
      <Star/>
+     <Star/>
+     <Star/>
+     <Star/>
+
     </div>
   );
 }
