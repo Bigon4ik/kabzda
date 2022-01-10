@@ -10,6 +10,8 @@ function App() {
      <Star/>
      <Star/>
      <Star/>
+     <Star/>
+
 
     </div>
   );
