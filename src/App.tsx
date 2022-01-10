@@ -10,7 +10,6 @@ function App() {
     <div >
       <Acordion />
       <Rating />
-      <Star/>
 
     </div>
   );
