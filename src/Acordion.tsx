@@ -7,6 +7,14 @@ function App() {
   return (
     <div >
      <Rating/>
+     <Rating/>
+     <Rating/>
+     <Rating/>
+     <Rating/>
+     fdfsdfdd
+     fdfsdfdd
+     fdfsdfdd
+     fdfsdfdd
      fdfsdfdd
     </div>
   );
