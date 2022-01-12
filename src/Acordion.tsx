@@ -7,7 +7,7 @@ function App() {
   return (
     <div >
      <Rating/>
-     fdfsd
+     fdfsdfdd
     </div>
   );
 }
